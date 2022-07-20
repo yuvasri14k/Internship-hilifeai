@@ -1,0 +1,85 @@
+p{
+    color: rgb(139, 241, 211);
+    text-align: left;
+    font-size: 30px;
+    background-color: rgb(0, 0, 0);
+}
+h1{
+    color: rgb(158, 12, 12);
+    text-align: center;
+    font-size: 45px;
+}
+div{
+    background-color: rgb(138, 130, 252);
+    width: 400px;
+    border: 15px solid rgb(102, 0, 128);
+    padding: 60px;
+    text-align: center;
+}
+body{
+    background-color: rgb(243, 234, 220);
+}
+a:link {
+    color: red;
+  }
+  a:visited {
+    color: green;
+  }
+  a:hover {
+    color: hotpink;
+  }
+  a:active {
+    color: blue;
+  }
+  h3{
+    color: rgb(1, 0, 2);
+    font-size:35px ;
+    flex-direction: inherit;
+  }
+  input[type=text], select {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+  
+  input[type=submit] {
+    width: 100%;
+    background-color: #4CAF50;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  input[type=submit]:hover {
+    background-color: #45a049;
+  }
+  
+  div {
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 20px;
+  }
+  p.dotted {border-style: dotted;}
+p.dashed {border-style: dashed;}
+p.solid {border-style: solid;}
+p.double {border-style: double;}
+p.groove {border-style: groove;}
+h4.ridge {border-style: ridge;}
+h4.inset {border-style: inset;}
+h4.outset {border-style: outset;}
+h4.none {border-style: none;}
+h4.hidden {border-style: hidden;}
+h4.mix {border-style: dotted dashed solid double;}
+
+h4{
+  color: rgb(250, 189, 114);
+  font-size: 20px;
+  text-align: center;
+}
